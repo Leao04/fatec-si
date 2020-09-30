@@ -4,8 +4,6 @@
   <b-navbar type="dark" variant="dark">
     <b-navbar-nav>
       <b-nav-item href="#">Home</b-nav-item>
-
-      <!-- Navbar dropdowns -->
       <b-nav-item-dropdown text="Lang" right>
         <b-dropdown-item href="#">EN</b-dropdown-item>
         <b-dropdown-item href="#">ES</b-dropdown-item>
