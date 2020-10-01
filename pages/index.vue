@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <Logo />
-      <h1 class="title">fatec-si</h1>
+      <h1 class="title">fatec-si 2020</h1>
       <div class="links">
         <a
           href="https://nuxtjs.org/"
